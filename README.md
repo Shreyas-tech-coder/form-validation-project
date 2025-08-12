@@ -1,42 +1,49 @@
-# JavaScript Form Validation - Major Project (Placemantra Course)
+# 📝 Form Validation Project - Major Project
 
-## 📌 Description
-This is a fully responsive **JavaScript Form Validation** project built using **HTML, CSS (Bootstrap), and Vanilla JavaScript**.  
-It validates user inputs in real-time and ensures that all mandatory fields are correctly filled before submission.  
-The project is part of the PlaceMantra certification requirement.
+A simple yet robust **Form Validation** web application built using **HTML**, **CSS (Bootstrap)**, and **JavaScript**. This project was created as part of the **Placemantra Minor Project** to practice client-side validation techniques and improve form handling skills.  
 
----
+## 📌 Features  
+- Full Name validation (letters only, proper length)  
+- Email validation (checks proper format)  
+- Phone number validation (numeric, fixed length)  
+- Password & Confirm Password match validation  
+- Real-time error messages  
+- Clean and responsive UI using **Bootstrap**  
+- Custom styling for a better user experience  
 
-## ✨ Features
-- **Real-time validation** with green check ✅ and red cross ❌ icons.
-- **Error messages** for invalid inputs.
-- **Password strength check** (min 8 characters, not 'password' or the user’s name).
-- **Password visibility toggle** with eye icon.
-- Fully **responsive design** using Bootstrap 5.
-- **Disabled submit button** until all fields are valid.
-- Smooth animations for error messages.
-
----
-
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack  
 - **HTML5**  
-- **CSS3** (Bootstrap 5 + custom styles)  
-- **JavaScript** (ES6)
+- **CSS3** (Bootstrap 5)  
+- **JavaScript (ES6)**  
 
----
+## 🚀 Live Demo  
+🔗 [View Project on Netlify](https://shreyas-js-validation.netlify.app/)  
 
-## 📋 Validation Rules
-1. **Full Name** → At least 5 characters.  
-2. **Email** → Must contain '@'.  
-3. **Phone Number** → Must be 10 digits and not '1234567890'.  
-4. **Password**:
-   - At least 8 characters.
-   - Cannot be 'password' or user's own name.
-5. **Confirm Password** → Must match the password.
+## 📸 Screenshot  
+![Form Validation Screenshot](screenshot.png)  
 
----
+## 📂 Project Structure  
+form-validation-project/
+│
+├── index.html          # Main HTML file
+├── style.css           # Custom CSS styles
+├── script.js           # JavaScript validation logic
+├── screenshot.png      # Project screenshot
+└── README.md           # Project documentation
 
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shreyas-tech-coder/form-validation-project
+
+## 💡 How It Works  
+1. **User fills the form** → Name, Email, Phone, Password, Confirm Password.  
+2. **JavaScript validation** checks input fields in real-time.  
+3. **Error messages** appear instantly if validation fails.  
+4. On success, the form can be submitted.  
+
+## 📚 Learning Outcomes  
+- Practical understanding of HTML form elements  
+- Bootstrap grid system & utility classes  
+- DOM manipulation using JavaScript  
+- Event handling & input validation logic  
+
+## 📜 License  
+This project is developed as part of the **Placemantra Minor Project** and is free to use for learning purposes.  
+
