@@ -45,5 +45,5 @@ form-validation-project/
 - Event handling & input validation logic  
 
 ## 📜 License  
-This project is developed as part of the **Placemantra Minor Project** and is free to use for learning purposes.  
+This project is developed as part of the **Placemantra Major Project** and is free to use for learning purposes.  
 
