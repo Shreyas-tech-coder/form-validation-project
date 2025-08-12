@@ -25,11 +25,11 @@ A simple yet robust **Form Validation** web application built using **HTML**, **
 ## 📂 Project Structure  
 form-validation-project/
 │
-├── index.html          # Main HTML file
-├── style.css           # Custom CSS styles
-├── script.js           # JavaScript validation logic
-├── screenshot.png      # Project screenshot
-└── README.md           # Project documentation
+├── index.html
+├── style.css
+├── script.js
+├── screenshot.png
+└── README.md
 
 
 ## 💡 How It Works  
