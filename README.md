@@ -1,4 +1,4 @@
-# Advanced JavaScript Form Validation
+# Advanced JavaScript Form Validation - Major Project (Placemantra Course)
 
 ## 📌 Description
 This is a fully responsive **JavaScript Form Validation** project built using **HTML, CSS (Bootstrap), and Vanilla JavaScript**.  
